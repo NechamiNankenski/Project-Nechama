@@ -1,0 +1,74 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Debugging logs
+*.log
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio Code directories
+.vscode/
+.vs/
+.idea/
+
+# Rider project files
+.idea/
+
+# ASP.NET Core specific
+appsettings*.json
+wwwroot/
+
+# Entity Framework Migrations
+Migrations/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dotnet specifics
+project.lock.json
+project.fragment.lock.json
+project.json
+global.json
+
+# Publish outputs
+.publish/
+
+# Azure Web Apps
+app_offline.htm
+
+# Local history for Visual Studio
+.localhistory/
+
+# Visual Studio 2019/2022 files
+*.tss
+*.psess
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# Roslyn cache
+*.ide
+
+# Dotnet tools
+*.dotnet_tool
+*.dotnet.tools.json
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# NCrunch
+_ncrunch_/
+.*crunchsolution
